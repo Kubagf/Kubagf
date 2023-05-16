@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kubagf
-- 👀 I’m interested in music 🎶 and computers 🖥️
+- 👀 I’m interested in music 🎶 and IT 🖥️
 - 🌱 I’m currently learning python 🐍
 <!---
 - 💞️ I’m looking to collaborate on ...
